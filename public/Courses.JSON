@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Learn React JS Tutorial For Beginners",
+    "price": 59,
+    "duration": 15,
+    "review": 20,
+    "view": 8510,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/09/BL8312-500x300.jpg"
+  },
+  {
+    "name": "Basics of Cooking for Busy People",
+    "price": "Free",
+    "duration": 82,
+    "review": 110,
+    "view": 300,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/PT991-768x432.jpg"
+  },
+  {
+    "name": "English Pronunciation for Beginners",
+    "price": 60,
+    "duration": 16,
+    "review": 80,
+    "view": 580,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/BL416-768x432.jpg"
+  },
+  {
+    "name": "Health and Safety Awareness Training",
+    "price": 42,
+    "duration": 22,
+    "review": 313,
+    "view": 8921,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/03/CO994-768x432.jpeg"
+  },
+  {
+    "name": "Complete Financial Analyst Course",
+    "price": 51,
+    "duration": 30,
+    "review": 220,
+    "view": 3981,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/03/CO992-768x432.jpg"
+  },
+  {
+    "name": "Easy Food Recipes to Make at Home",
+    "price": 40,
+    "duration": 13,
+    "review": 800,
+    "view": 6800,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/06/TT433YT-500x300.jpeg"
+  },
+  {
+    "name": "Drawing and Painting Course for Children",
+    "price": 70,
+    "duration": 17,
+    "review": 300,
+    "view": 8800,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/BLP019-768x432.jpg"
+  },
+  {
+    "name": "WordPress for Beginners – Master",
+    "price": 100,
+    "duration": 20,
+    "review": 500,
+    "view": 1500,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2020/09/BL437-768x432.jpg"
+  },
+  {
+    "name": "IELTS Course for international students",
+    "price": 45,
+    "duration": 18,
+    "review": 200,
+    "view": 1800,
+    "img": "https://raistheme.com/wp/gostudy/learnpress/wp-content/uploads/sites/2/2021/04/BLP20-768x432.jpg"
+  }
+]
